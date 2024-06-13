@@ -1,3 +1,8 @@
-# Hello World
+# Generative models for limited datasets
 
-## Hello
+# Authors
+
+Adrian Chłopowiec
+Adam Chłopwiec
+Krzysztof Galus
+Wojciech Cebula
